@@ -1,0 +1,4 @@
+#Ingnore all files in target
+target/*
+lib/*
+nb-configuration.xml
