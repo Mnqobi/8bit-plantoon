@@ -1,4 +1,4 @@
-# Randon Project
+# Random Project
 
 I built this project with the picture in mind of it being a part of a big overall framework
 
