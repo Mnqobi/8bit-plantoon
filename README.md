@@ -1,4 +1,4 @@
-# 8Bit-Plantoon Test Project
+# Randon Project
 
 I built this project with the picture in mind of it being a part of a big overall framework
 
@@ -14,5 +14,3 @@ I built this project with the picture in mind of it being a part of a big overal
 ### Whats not there
 
 - Unit Tests (need to put them in), will be using TestNG
- 
-#### Thanks For Giving it your time!
